@@ -2,7 +2,7 @@
 
 ## 1. Collection types
 - Below is a diagram of the Kotlin collection interfaces:
-![collection interfaces](images/collections-diagram.png)
+![collection interfaces](../images/collections-diagram.png)
 
 ## 2. List
 ```kotlin
