@@ -1,4 +1,4 @@
-package com.gmoon.base.sample.kotest.property
+package com.gmoon.base.kotest
 
 import io.kotest.core.spec.style.StringSpec
 import io.kotest.matchers.ints.shouldBeGreaterThanOrEqual
